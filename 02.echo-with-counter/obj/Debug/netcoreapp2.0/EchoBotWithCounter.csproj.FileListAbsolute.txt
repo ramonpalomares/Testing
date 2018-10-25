@@ -1,0 +1,13 @@
+C:\Users\EstebanGarcía\botbuilder-samples\samples\csharp_dotnetcore\02.echo-with-counter\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\EstebanGarcía\botbuilder-samples\samples\csharp_dotnetcore\02.echo-with-counter\bin\Debug\netcoreapp2.0\BotConfiguration.bot
+C:\Users\EstebanGarcía\botbuilder-samples\samples\csharp_dotnetcore\02.echo-with-counter\bin\Debug\netcoreapp2.0\EchoBotWithCounter.deps.json
+C:\Users\EstebanGarcía\botbuilder-samples\samples\csharp_dotnetcore\02.echo-with-counter\bin\Debug\netcoreapp2.0\EchoBotWithCounter.runtimeconfig.json
+C:\Users\EstebanGarcía\botbuilder-samples\samples\csharp_dotnetcore\02.echo-with-counter\bin\Debug\netcoreapp2.0\EchoBotWithCounter.runtimeconfig.dev.json
+C:\Users\EstebanGarcía\botbuilder-samples\samples\csharp_dotnetcore\02.echo-with-counter\bin\Debug\netcoreapp2.0\EchoBotWithCounter.dll
+C:\Users\EstebanGarcía\botbuilder-samples\samples\csharp_dotnetcore\02.echo-with-counter\bin\Debug\netcoreapp2.0\EchoBotWithCounter.pdb
+C:\Users\EstebanGarcía\botbuilder-samples\samples\csharp_dotnetcore\02.echo-with-counter\obj\Debug\netcoreapp2.0\EchoBotWithCounter.csprojAssemblyReference.cache
+C:\Users\EstebanGarcía\botbuilder-samples\samples\csharp_dotnetcore\02.echo-with-counter\obj\Debug\netcoreapp2.0\EchoBotWithCounter.csproj.CoreCompileInputs.cache
+C:\Users\EstebanGarcía\botbuilder-samples\samples\csharp_dotnetcore\02.echo-with-counter\obj\Debug\netcoreapp2.0\EchoBotWithCounter.AssemblyInfoInputs.cache
+C:\Users\EstebanGarcía\botbuilder-samples\samples\csharp_dotnetcore\02.echo-with-counter\obj\Debug\netcoreapp2.0\EchoBotWithCounter.AssemblyInfo.cs
+C:\Users\EstebanGarcía\botbuilder-samples\samples\csharp_dotnetcore\02.echo-with-counter\obj\Debug\netcoreapp2.0\EchoBotWithCounter.dll
+C:\Users\EstebanGarcía\botbuilder-samples\samples\csharp_dotnetcore\02.echo-with-counter\obj\Debug\netcoreapp2.0\EchoBotWithCounter.pdb
